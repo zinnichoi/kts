@@ -11,8 +11,22 @@
 |
 */
 // User
-Route::get('/home', 'User\HomeController@index')->name('home');
-Route::get('/', 'User\HomeController@index')->name('home');
-Route::get('/product', 'User\ProductController@list')->name('product_list');
-Route::get('/product/{id}', 'User\ProductController@show')->name('product_detail');
+// Home page
+Route::get('/home', 'UserHomeController@index')->name('home');
+Route::get('/', 'UserHomeController@index')->name('home');
+// Introduce
+Route::get('/introduction', 'UserHomeController@introduce')->name('introduction');
+Route::get('/design-style', 'UserHomeController@designStyle')->name('design-style');
+Route::get('/leader', 'UserHomeController@leader')->name('leader');
+//
+Route::get('/product', 'UserProductController@list')->name('product_list');
+Route::get('/product/{id}', 'UserProductController@show')->name('product_detail');
+// Service
+Route::get('/service', 'UserHomeController@service')->name('service');
+// Blog
+Route::get('/blog/{id?}', 'UserHomeController@blog')->name('blog-list');
+// Career
+Route::get('/career/{id?}', 'UserHomeController@career')->name('career');
+// Contact
+Route::get('/contact', 'UserHomeController@contact')->name('contact');
 // Admin

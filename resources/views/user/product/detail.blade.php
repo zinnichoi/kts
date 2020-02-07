@@ -23,85 +23,7 @@
 <!-- End Google Tag Manager (noscript) -->
 
 <div class="home page-template page-template-templ-home page-template-templ-home-php blog page-template-templ-portfolio-one-php">
-    <header class="header2 clear background--dark">
-        <a class="logo" href="http://w3ni601.nanoweb.com.vn/" title="Web Kiến trúc TOAM">
-            <img alt="Về trang chủ" class="img-responsive"
-                 src="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/718/logo/brand-1512443407.png"/>
-        </a>
-
-        <a href="javascript:void(0);" title="Menu" class="showMobileMenu">
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-        </a>
-        <div class="mainmenu clear">
-            <ul id="menu-menu-1" class=" clear">
-                <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                    <a href="http://w3ni601.nanoweb.com.vn/" title="Trang chủ">Trang chủ</a>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                    <a href="javascript:void(0)" title="Giới thiệu">Giới thiệu</a>
-                    <ul class="sub-menu">
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/gioi-thieu.html" title="Giới thiệu chung">
-                                Giới thiệu chung </a>
-                        </li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/phong-cach-thiet-ke-pde2275.html"
-                               title="Phong cách thiết kế">
-                                Phong cách thiết kế </a>
-                        </li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/gioi-thieu-ban-lanh-dao-pde2263.html"
-                               title="Giới thiệu ban lãnh đạo">
-                                Giới thiệu ban lãnh đạo </a>
-                        </li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/cac-doi-tac-chien-luoc-pde2264.html"
-                               title="Các đối tác chiến lược">
-                                Các đối tác chiến lược </a>
-                        </li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/cac-bang-khen-giai-thuong-pde2265.htmltype 2"
-                               title="Các bằng khen, giải thưởng">
-                                Các bằng khen, giải thưởng </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                    <a href="http://w3ni601.nanoweb.com.vn/san-pham-nc3203.html" title="Sản phẩm">Sản phẩm</a>
-                    <ul class="sub-menu">
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/da-hoan-thanh-nc3204.html" title="Đã hoàn thành">
-                                Đã hoàn thành </a>
-                        </li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/chua-hoan-thanh-nc3205.html" title="Chưa hoàn thành">
-                                Chưa hoàn thành </a>
-                        </li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                            <a href="http://w3ni601.nanoweb.com.vn/video.html" title="Video">
-                                Video </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                    <a href="http://w3ni601.nanoweb.com.vn/du-an-nc3209.html" title="Dịch vụ">Dịch vụ</a>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                    <a href="http://w3ni601.nanoweb.com.vn/tin-tuc-nc3202.html" title="Blog">Blog</a>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                    <a href="http://w3ni601.nanoweb.com.vn/tuyen-dung.html" title="Tuyển dụng">Tuyển dụng</a>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                    <a href="http://w3ni601.nanoweb.com.vn/lien-he.html" title="Liên hệ">Liên hệ</a>
-                </li>
-            </ul>
-
-        </div>
-    </header>
+    @include('user/layouts/nav-web')
     <div id="wrapper" class="width-float ">
 
         <div class="singleProjectWrap clear">
@@ -191,11 +113,11 @@
                     <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Chung cư Ciputra</span></span>
                     </p>
 
-                    <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Thiết kế: KTS nội thất TOAM STUDIO</span></span>
+                    <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Thiết kế: KTS nội thất KLEVER STUDIO</span></span>
                     </p>
 
                     <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Không ngừng phát triển để mang đến nhiều không gian sống đẹp đến cho nhiều gia đình ở khắp mọi nơi trên cả nước. Phong cách thiết kế hiện đại, kiểu dáng tinh tế, sang trọng, thể hiện đẳng cấp là những vẻ đẹp quý khách có thể thấy được ở những dự án&nbsp;<strong>thiết kế nội thất chung cư</strong>&nbsp;mà nội thất cao cấp&nbsp;<span
-                                        style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">TOAM STUDIO</span></span> mang lại.</span></span>
+                                        style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">KLEVER STUDIO</span></span> mang lại.</span></span>
                     </p>
                     </p>
                 </div>
@@ -275,82 +197,8 @@
             })
         </script>
     </div>
-    <footer class="clear">
-        <div class="copyright">© Copyright 2017 TOAM</div>
-        <div class="footer-social clear">
-
-            <a href="https://www.facebook.com/toamstudio" target="_blank" rel="nofollow" class="support"><i
-                        class="fa fa-facebook"></i></a> <a href="http://w3ni601.nanoweb.com.vn/info@toam.com"
-                                                           target="_blank" rel="nofollow" class="support"><i
-                        class="fa fa-google-plus"></i></a> <a href="http://w3ni601.nanoweb.com.vn/youtube.com"
-                                                              target="_blank" rel="nofollow" class="support"><i
-                        class="fa fa-youtube-play"></i></a></div>
-    </footer>
-    <div class="mobileMenu">
-        <ul id="menu-menu-1" class=" clear">
-            <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="http://w3ni601.nanoweb.com.vn/" title="Trang chủ">Trang chủ</a>
-            </li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="javascript:void(0)" title="Giới thiệu">Giới thiệu</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/gioi-thieu.html" title="Giới thiệu chung">
-                            Giới thiệu chung </a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/phong-cach-thiet-ke-pde2275.html"
-                           title="Phong cách thiết kế">
-                            Phong cách thiết kế </a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/gioi-thieu-ban-lanh-dao-pde2263.html"
-                           title="Giới thiệu ban lãnh đạo">
-                            Giới thiệu ban lãnh đạo </a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/cac-doi-tac-chien-luoc-pde2264.html"
-                           title="Các đối tác chiến lược">
-                            Các đối tác chiến lược </a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/cac-bang-khen-giai-thuong-pde2265.htmltype 2"
-                           title="Các bằng khen, giải thưởng">
-                            Các bằng khen, giải thưởng </a>
-                    </li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="http://w3ni601.nanoweb.com.vn/san-pham-nc3203.html" title="Sản phẩm">Sản phẩm</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/da-hoan-thanh-nc3204.html" title="Đã hoàn thành">
-                            Đã hoàn thành </a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/chua-hoan-thanh-nc3205.html" title="Chưa hoàn thành">
-                            Chưa hoàn thành </a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="http://w3ni601.nanoweb.com.vn/video.html" title="Video">
-                            Video </a>
-                    </li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="http://w3ni601.nanoweb.com.vn/du-an-nc3209.html" title="Dịch vụ">Dịch vụ</a>
-            </li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="http://w3ni601.nanoweb.com.vn/tin-tuc-nc3202.html" title="Blog">Blog</a>
-            </li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="http://w3ni601.nanoweb.com.vn/tuyen-dung.html" title="Tuyển dụng">Tuyển dụng</a>
-            </li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="http://w3ni601.nanoweb.com.vn/lien-he.html" title="Liên hệ">Liên hệ</a>
-            </li>
-        </ul>
-    </div>
+    @include('user/layouts/nav-mob')
+    @include('user/layouts/footer-line')
 </div>
 <script>
     function setCookie(key, value) {
@@ -400,14 +248,12 @@
 
     });
 </script>
-
-<script type="text/javascript" src="http://w3ni601.nanoweb.com.vn/js/web3nhat.min.js?v=1.1.4.2"></script>
 <script type="text/javascript">
     /*<![CDATA[*/
     jQuery(function ($) {
         jQuery(document).ready(function () {
             setTimeout(function () {
-                $("body").append("<img style=\"display: none; with: 0px; height: 0px;\" rel=\"noindex,nofollow\" src=\"/news/news/viewed/id/6147/time/1580999548/key/aface81f7690e7e5e9ecd031a1caca8d\" />");
+                $("body").append("<img style=\"display: none; with: 0px; height: 0px;\" rel=\"noindex,nofollow\"  />");
             }, 300);
         })
     });
@@ -430,7 +276,6 @@
     ga('send', 'pageview');
 
 </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112389681-1"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -443,7 +288,5 @@
     gtag('config', 'UA-112389681-1');
 </script>
 </body>
-
-<!-- Mirrored from w3ni601.nanoweb.com.vn/thiet-ke-noi-that-cao-cap-chung-cu-ciputra-nha-chi-tuyet-nd6147.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Feb 2020 14:39:02 GMT -->
 </html>
 @include('user/layouts/footer')

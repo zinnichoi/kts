@@ -6,11 +6,9 @@
  * Time: 9:10 PM
  */
 
-namespace App\Http\Controllers\User;
+namespace App\Http\Controllers;
 
-use App\Http\Controllers\Controller;
-
-class HomeController extends Controller {
+class AdminHomeController extends Controller {
     public function index()
     {
         return view('home/welcome');
