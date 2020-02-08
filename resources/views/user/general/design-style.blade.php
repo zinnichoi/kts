@@ -79,25 +79,13 @@
                         <h3 class="widgettitle">Tổng quan về KLEVER</h3>
                         <ul>
                             <li>
-                                <a href="" >Sơ lược về công ty</a>
+                                <a href="{{ url('/introduction') }}" >Giới thiệu chung</a>
                             </li>
                             <li>
-                                <a href="" > Tầm nhìn chung</a>
+                                <a href="{{ url('/design-style') }}" >Phong cách thiết kế</a>
                             </li>
                             <li>
-                                <a href="" >Sứ mạng và Giá trị cốt lõi</a>
-                            </li>
-                            <li>
-                                <a href="" >Lịch sử phát triển</a>
-                            </li>
-                            <li>
-                                <a href="" >Giới thiệu ban lãnh đạo</a>
-                            </li>
-                            <li>
-                                <a href="" >Các đối tác chiến lược</a>
-                            </li>
-                            <li>
-                                <a href="" >Các bằng khen, giải thưởng</a>
+                                <a href="{{ url('/leader') }}" >Giới thiệu ban lãnh đạo</a>
                             </li>
                         </ul>
                     </div>

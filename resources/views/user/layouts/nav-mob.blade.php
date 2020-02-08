@@ -36,11 +36,11 @@
             <a href="{{ url('/product') }}" title="Sản phẩm">Sản phẩm</a>
             <ul class="sub-menu">
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                    <a href="{{ url('/product') }}" title="Đã hoàn thành">
+                    <a href="{{ url('/product/complete') }}" title="Đã hoàn thành">
                         Đã hoàn thành </a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                    <a href="{{ url('/product') }}" title="Chưa hoàn thành">
+                    <a href="{{ url('/product/incomplete') }}" title="Chưa hoàn thành">
                         Chưa hoàn thành </a>
                 </li>
                 {{--<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">--}}
@@ -50,16 +50,16 @@
             </ul>
         </li>
         <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-            <a href="{{ url('/') }}" title="Dịch vụ">Dịch vụ</a>
+            <a href="{{ url('/service') }}" title="Dịch vụ">Dịch vụ</a>
         </li>
         <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-            <a href="{{ url('/') }}" title="Blog">Blog</a>
+            <a href="{{ url('/blog') }}" title="Blog">Blog</a>
         </li>
         <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-            <a href="{{ url('/') }}" title="Tuyển dụng">Tuyển dụng</a>
+            <a href="{{ url('/career') }}" title="Tuyển dụng">Tuyển dụng</a>
         </li>
         <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-            <a href="{{ url('/') }}" title="Liên hệ">Liên hệ</a>
+            <a href="{{ url('/contact') }}" title="Liên hệ">Liên hệ</a>
         </li>
     </ul>
 </div>

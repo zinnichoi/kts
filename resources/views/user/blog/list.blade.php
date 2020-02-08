@@ -75,12 +75,12 @@
                                 <div class="row">
                                     <ul class="grid effect-2" id="grid" data-masonry='{ "itemSelector": ".grid-item"}'>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l1.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017
@@ -88,131 +88,131 @@
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l2.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l3.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l4.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l5.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l6.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l7.png') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l8.jpg') }}"
                                                      alt="First Home Premium Bình Dương giới thiệu sản phẩm và tri ân khách hàng_copy"/>
                                             </a>
                                             <h2>
-                                                <a href="">First Home Premium Bình Dương giới thiệu sản phẩm và tri ân
+                                                <a href="{{ url('blog/1') }}">First Home Premium Bình Dương giới thiệu sản phẩm và tri ân
                                                     khách hàng_copy</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l9.png') }}"
                                                      alt="FDI vào bất đọng sản tăng gần 60%"/>
                                             </a>
                                             <h2>
-                                                <a href="">FDI vào bất đọng sản tăng gần 60%</a>
+                                                <a href="{{ url('blog/1') }}">FDI vào bất đọng sản tăng gần 60%</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 07/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l10.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 04/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l11.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 04/12/2017 </p>
                                             </h2>
                                         </li>
                                         <li class="item-news-blog grid-item item-3221s" data-category="item-3221s">
-                                            <a href="" rel="group-1" class="fancybox">
+                                            <a href="{{ url('blog/1') }}" rel="group-1" class="fancybox">
                                                 <img src="{{ asset('assets/image/page/blog-l12.jpg') }}"
                                                      alt="20 điều cần biết để tránh khi thiết kế và thi công nội thất"/>
                                             </a>
                                             <h2>
-                                                <a href="">20 điều cần biết để tránh khi thiết kế và thi công nội
+                                                <a href="{{ url('blog/1') }}">20 điều cần biết để tránh khi thiết kế và thi công nội
                                                     thất</a>
                                                 <p class="date-news">
                                                     <i class="fa fa-calendar"></i> 04/12/2017 </p>

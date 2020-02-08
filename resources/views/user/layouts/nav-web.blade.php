@@ -2,6 +2,12 @@
     <a class="logo" href="{{ url('/') }}" title="Web Kiến trúc KLEVER">
         <img alt="Về trang chủ" class="img-responsive" src="{{ asset('assets/image/page/logo.png') }}"/>
     </a>
+    <a href="javascript:void(0);" title="Menu" class="showMobileMenu">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </a>
     <div class="mainmenu clear">
         <ul id="menu-menu-1" class=" clear">
             <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-72">
@@ -36,11 +42,11 @@
                 <a href="{{ url('product') }}" title="Sản phẩm">Sản phẩm</a>
                 <ul class="sub-menu">
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="{{ url('/product') }}" title="Đã hoàn thành">
+                        <a href="{{ url('/product/complete') }}" title="Đã hoàn thành">
                             Đã hoàn thành </a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="{{ url('/product') }}" title="Chưa hoàn thành">
+                        <a href="{{ url('/product/incomplete') }}" title="Chưa hoàn thành">
                             Chưa hoàn thành </a>
                     </li>
                     {{--<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">--}}

@@ -53,6 +53,7 @@
 <div
     class="home page-template page-template-templ-home page-template-templ-home-php blog page-template-templ-portfolio-one-php">
     @include('user/layouts/nav-web')
+    <input type="hidden" id="status" value="{{ $status }}">
     <div id="wrapper" class="width-float ">
         <div class="inpage-blog">
             <section class="container">
@@ -64,9 +65,9 @@
                             <div class="filter-button-group button-group js-radio-button-group">
                                 <button class="button is-checked" data-filter="*">Tất cả</button>
 
-                                <button class="button" data-filter=".item-3204s">Đã hoàn thành</button>
+                                <button id="complete-button" class="button" data-filter=".item-3204s">Đã hoàn thành</button>
 
-                                <button class="button" data-filter=".item-3205s">Chưa hoàn thành</button>
+                                <button id="incomplete-button" class="button" data-filter=".item-3205s">Chưa hoàn thành</button>
                             </div>
                             <div class="row">
                                 <div class="grid effect-2">
@@ -228,6 +229,14 @@
                                     var filterValue = $(this).attr('data-filter');
                                     $grid.isotope({filter: filterValue});
                                 });
+
+                                if ($('#status').val() === 'complete') {
+                                    $( "#complete-button" ).trigger( "click" );
+                                }
+                                if ($('#status').val() === 'incomplete') {
+                                    $( "#incomplete-button" ).trigger( "click" );
+                                }
+
                             };
                         </script>
                     </div>

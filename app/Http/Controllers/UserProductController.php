@@ -10,9 +10,9 @@ class UserProductController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function list()
+    public function list($status='')
     {
-        return view('user/product/list');
+        return view('user/product/list', ['status' => $status]);
     }
 
     /**
@@ -25,6 +25,4 @@ class UserProductController extends Controller
     {
         return view('user/product/detail');
     }
-
-
 }
