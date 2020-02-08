@@ -72,138 +72,157 @@
                             <div class="row">
                                 <div class="grid effect-2">
 
-                                    <div class="element-item item-3205s" data-category="item-3205s">
+                                    <div class="element-item item-3204s" data-category="item-3204s">
                                         <div class="img-product img-hover img-full height-34">
-                                            <a href="#">
-                                                <img src="{{ asset('assets/image/page/pro-l1.png') }}"
+                                            <a href="{{ url('product/1') }}">
+                                                <img src="{{ asset('assets/image/product/product1/detail1-logo.JPG') }}"
                                                      class="img-responsive"
-                                                     alt="Thiết kế nội thất cao cấp chung cư Ciputra nhà chị Tuyết">
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ SKY LAKE NHÀ ANH ĐỨC">
                                             </a>
                                         </div>
                                         <div class="caption-product">
                                             <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất cao cấp chung cư Ciputra nhà chị Tuyết</a></h4>
+                                                <a href="{{ url('product/1') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ SKY LAKE NHÀ ANH ĐỨC</a></h4>
                                         </div>
                                     </div>
 
                                     <div class="element-item item-3204s" data-category="item-3204s">
                                         <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l2.jpg') }}"
+                                            <a href="{{ url('product/2') }}">
+                                                <img src="{{ asset('assets/image/product/product2/detail2-logo.jpg') }}"
                                                      class="img-responsive"
-                                                     alt="Thiết kế nội thất chung cư cao cấp Times City">
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ IMPERIA NHÀ CHỊ HẠNH (Á HẬU)">
                                             </a>
                                         </div>
                                         <div class="caption-product">
                                             <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất chung cư cao cấp Times City</a></h4>
-                                        </div>
-                                    </div>
-
-                                    <div class="element-item item-3205s" data-category="item-3205s">
-                                        <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l3.png') }}"
-                                                     class="img-responsive"
-                                                     alt="Thiết kế nội thất cao cấp chung cư Ciputra nhà chị Tuyết">
-                                            </a>
-                                        </div>
-                                        <div class="caption-product">
-                                            <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất cao cấp chung cư Ciputra nhà chị Tuyết</a></h4>
-                                        </div>
-                                    </div>
-
-                                    <div class="element-item item-3203s" data-category="item-3203s">
-                                        <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l4.jpg') }}"
-                                                     class="img-responsive"
-                                                     alt="Thiết kế nội thất cao cấp chung cư Ciputra nhà chị Tuyết">
-                                            </a>
-                                        </div>
-                                        <div class="caption-product">
-                                            <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất cao cấp chung cư Ciputra nhà chị Tuyết</a></h4>
+                                                <a href="{{ url('product/2') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ IMPERIA NHÀ CHỊ HẠNH (Á HẬU)</a></h4>
                                         </div>
                                     </div>
 
                                     <div class="element-item item-3204s" data-category="item-3204s">
                                         <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l5.jpg') }}"
+                                            <a href="{{ url('product/3') }}">
+                                                <img src="{{ asset('assets/image/product/product3/detail3-logo.jpg') }}"
                                                      class="img-responsive"
-                                                     alt="Thiết kế nội thất chung cư cao cấp Times City">
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ GARDENIA ANH HƯNG">
                                             </a>
                                         </div>
                                         <div class="caption-product">
                                             <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất chung cư cao cấp Times City</a></h4>
+                                                <a href="{{ url('product/3') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ GARDENIA ANH HƯNG</a></h4>
                                         </div>
                                     </div>
 
                                     <div class="element-item item-3204s" data-category="item-3204s">
                                         <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l6.png') }}"
+                                            <a href="{{ url('product/4') }}">
+                                                <img src="{{ asset('assets/image/product/product4/detail4-logo.jpg') }}"
                                                      class="img-responsive"
-                                                     alt="Thiết kế nội thất chung cư cao cấp Park Hill ">
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ SUNSHINE ANH TÙNG">
                                             </a>
                                         </div>
                                         <div class="caption-product">
                                             <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất chung cư cao cấp Park Hill </a></h4>
+                                                <a href="{{ url('product/4') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ SUNSHINE ANH TÙNG</a></h4>
                                         </div>
                                     </div>
 
                                     <div class="element-item item-3204s" data-category="item-3204s">
                                         <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l7.png') }}"
+                                            <a href="{{ url('product/5') }}">
+                                                <img src="{{ asset('assets/image/product/product5/detail5-logo.jpg') }}"
                                                      class="img-responsive"
-                                                     alt="Thiết kế nội thất chung cư cao cấp Times City">
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ IMPERIA CHỊ TRANG">
                                             </a>
                                         </div>
                                         <div class="caption-product">
                                             <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất chung cư cao cấp Times City</a></h4>
+                                                <a href="{{ url('product/5') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ IMPERIA CHỊ TRANG</a></h4>
                                         </div>
                                     </div>
 
                                     <div class="element-item item-3204s" data-category="item-3204s">
                                         <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l8.png') }}"
+                                            <a href="{{ url('product/6') }}">
+                                                <img src="{{ asset('assets/image/product/product6/detail6-logo.jpg') }}"
                                                      class="img-responsive"
-                                                     alt="Thiết kế nội thất chung cư cao cấp Times City">
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CỬA HÀNG QUẦN ÁO LUXURY VŨ TUẤN NGUYỄN">
                                             </a>
                                         </div>
                                         <div class="caption-product">
                                             <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất chung cư cao cấp Times City</a></h4>
+                                                <a href="{{ url('product/6') }}">THIẾT KẾ NỘI THẤT CAO CẤP CỬA HÀNG QUẦN ÁO LUXURY VŨ TUẤN NGUYỄN</a></h4>
                                         </div>
                                     </div>
 
                                     <div class="element-item item-3204s" data-category="item-3204s">
                                         <div class="img-product img-hover img-full height-34">
-                                            <a href="">
-                                                <img src="{{ asset('assets/image/page/pro-l9.jpg') }}"
+                                            <a href="{{ url('product/7') }}">
+                                                <img src="{{ asset('assets/image/product/product7/detail7-logo.jpg') }}"
                                                      class="img-responsive"
-                                                     alt="Thiết kế nội thất chung cư cao cấp Times City">
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ GREEN BAY ANH PHONG">
                                             </a>
                                         </div>
                                         <div class="caption-product">
                                             <h4>
-                                                <a href="">Thiết
-                                                    kế nội thất chung cư cao cấp Times City</a></h4>
+                                                <a href="{{ url('product/7') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ GREEN BAY ANH PHONG</a></h4>
+                                        </div>
+                                    </div>
+
+                                    <div class="element-item item-3204s" data-category="item-3204s">
+                                        <div class="img-product img-hover img-full height-34">
+                                            <a href="{{ url('product/8') }}">
+                                                <img src="{{ asset('assets/image/product/product8/detail8-logo.jpg') }}"
+                                                     class="img-responsive"
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ FLC2 ANH ĐƯƠNG">
+                                            </a>
+                                        </div>
+                                        <div class="caption-product">
+                                            <h4>
+                                                <a href="{{ url('product/8') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ FLC2 ANH ĐƯƠNG</a></h4>
+                                        </div>
+                                    </div>
+
+                                    <div class="element-item item-3204s" data-category="item-3204s">
+                                        <div class="img-product img-hover img-full height-34">
+                                            <a href="{{ url('product/9') }}">
+                                                <img src="{{ asset('assets/image/product/product9/detail9-logo.jpg') }}"
+                                                     class="img-responsive"
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ ANH ĐỨC HÀO NAM">
+                                            </a>
+                                        </div>
+                                        <div class="caption-product">
+                                            <h4>
+                                                <a href="{{ url('product/9') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ ANH ĐỨC HÀO NAM</a></h4>
+                                        </div>
+                                    </div>
+
+                                    <div class="element-item item-3204s" data-category="item-3204s">
+                                        <div class="img-product img-hover img-full height-34">
+                                            <a href="{{ url('product/10') }}">
+                                                <img src="{{ asset('assets/image/product/product10/detail10-logo.jpg') }}"
+                                                     class="img-responsive"
+                                                     alt="THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ FLC CHỊ HẠNH">
+                                            </a>
+                                        </div>
+                                        <div class="caption-product">
+                                            <h4>
+                                                <a href="{{ url('product/10') }}">THIẾT KẾ NỘI THẤT CAO CẤP CHUNG CƯ FLC CHỊ HẠNH</a></h4>
+                                        </div>
+                                    </div>
+
+                                    <div class="element-item item-3204s" data-category="item-3204s">
+                                        <div class="img-product img-hover img-full height-34">
+                                            <a href="{{ url('product/11') }}">
+                                                <img src="{{ asset('assets/image/product/product11/detail11-logo.jpg') }}"
+                                                     class="img-responsive"
+                                                     alt="THIẾT KẾ QUÁN CAFE VĂN QUÁN">
+                                            </a>
+                                        </div>
+                                        <div class="caption-product">
+                                            <h4>
+                                                <a href="{{ url('product/11') }}">THIẾT KẾ QUÁN CAFE VĂN QUÁN</a></h4>
                                         </div>
                                     </div>
                                 </div>

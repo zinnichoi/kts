@@ -13,7 +13,7 @@
                                 <div class="item-testimonial">
                                     <div class="item-testimonial-author">
                                         <img
-                                            src="{{ asset('assets/image/page/customer1.png') }}"
+                                            src="{{ asset('assets/image/page/bld-tung.jpg') }}"
                                             class="attachment-full"/>
                                     </div>
                                     <div class="item-testimonial-quote">
@@ -30,7 +30,7 @@
                                 <div class="item-testimonial">
                                     <div class="item-testimonial-author">
                                         <img
-                                            src="{{ asset('assets/image/page/customer2.png') }}"
+                                            src="{{ asset('assets/image/page/bld-duc.jpg') }}"
                                             class="attachment-full"/>
                                     </div>
                                     <div class="item-testimonial-quote">
@@ -46,7 +46,7 @@
                                 <div class="item-testimonial">
                                     <div class="item-testimonial-author">
                                         <img
-                                            src="{{ asset('assets/image/page/customer2.png') }}"
+                                            src="{{ asset('assets/image/page/bld-son.jpg') }}"
                                             class="attachment-full"/>
                                     </div>
                                     <div class="item-testimonial-quote">

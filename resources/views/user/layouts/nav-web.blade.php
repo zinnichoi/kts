@@ -28,38 +28,26 @@
                         <a href="{{ url('/leader') }}" title="Giới thiệu ban lãnh đạo">
                             Giới thiệu ban lãnh đạo </a>
                     </li>
-                    {{--<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">--}}
-                    {{--<a href="{{ url('/') }}" title="Các đối tác chiến lược">--}}
-                    {{--Các đối tác chiến lược </a>--}}
-                    {{--</li>--}}
-                    {{--<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">--}}
-                    {{--<a href="{{ url('/') }}" title="Các bằng khen, giải thưởng">--}}
-                    {{--Các bằng khen, giải thưởng </a>--}}
-                    {{--</li>--}}
                 </ul>
             </li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="{{ url('product') }}" title="Sản phẩm">Sản phẩm</a>
+                <a href="{{ url('product/list') }}" title="Sản phẩm">Sản phẩm</a>
                 <ul class="sub-menu">
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="{{ url('/product/complete') }}" title="Đã hoàn thành">
+                        <a href="{{ url('/product/list/complete') }}" title="Đã hoàn thành">
                             Đã hoàn thành </a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">
-                        <a href="{{ url('/product/incomplete') }}" title="Chưa hoàn thành">
+                        <a href="{{ url('/product/list/incomplete') }}" title="Chưa hoàn thành">
                             Chưa hoàn thành </a>
                     </li>
-                    {{--<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123">--}}
-                    {{--<a href="{{ url('/') }}" title="Video">--}}
-                    {{--Video </a>--}}
-                    {{--</li>--}}
                 </ul>
             </li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
                 <a href="{{ url('/service') }}" title="Dịch vụ">Dịch vụ</a>
             </li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
-                <a href="{{ url('/blog') }}" title="Blog">Blog</a>
+                <a href="{{ url('/blog') }}" title="Blog">Tin tức</a>
             </li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-72">
                 <a href="{{ url('/career') }}" title="Tuyển dụng">Tuyển dụng</a>

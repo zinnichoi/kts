@@ -40,9 +40,9 @@
                         <div class="detail-page">
                             <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Phong cách thiết kế</strong></span></span></p>
 
-                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Không chỉ là nghệ thuật kiến trúc…</strong>&nbsp;Mà đó sự hòa quyện giữa nghệ thuật trang trí, nghệ thuật thị giác, văn học và âm nhạc… các nhà thiết kế thiết kế Bighome đã dẫn đầu xu hướng hoàn toàn mới trong việc bài trí không gian sống theo phong cách hiện đại, tân cổ điển sang trọng…</span></span></p>
+                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Không chỉ là nghệ thuật kiến trúc…</strong>&nbsp;Mà đó sự hòa quyện giữa nghệ thuật trang trí, nghệ thuật thị giác, văn học và âm nhạc… các nhà thiết kế thiết kế Nội Thất KLEVER HOUSE đã dẫn đầu xu hướng hoàn toàn mới trong việc bài trí không gian sống theo phong cách hiện đại, tân cổ điển sang trọng…</span></span></p>
 
-                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Phong cách nội thất Bighome&nbsp;</strong>đại diện cho&nbsp;<strong>4 phong cách cơ bản:</strong>&nbsp;<strong>Hiện đại, Đương đại, Tân cổ điển và Hoàng gia</strong>với xu hướng tới sáng tạo các không gian sống tiện nghi, sang trọng và độc đáo mang đậm cá tính của chủ nhân dựa trên 4 tiêu chí:</span></span></p>
+                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Phong cách nội thất KLEVER HOUSE&nbsp;</strong>đại diện cho&nbsp;<strong>4 phong cách cơ bản:</strong>&nbsp;<strong>Hiện đại, Đương đại, Tân cổ điển và Hoàng gia</strong>với xu hướng tới sáng tạo các không gian sống tiện nghi, sang trọng và độc đáo mang đậm cá tính của chủ nhân dựa trên 4 tiêu chí:</span></span></p>
 
                             <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Cá nhân hóa</strong>&nbsp;</span></span></p>
 
@@ -50,27 +50,25 @@
 
                             <p align="center"><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nội thất, không gian, ánh sáng, màu sắc như hòa quyện tạo dựng một thế giới thương lưu cho gia chủ</em></span></span></p>
 
-                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Điều dễ nhận thấy trong&nbsp;<strong>thiết kế nội thất bighome</strong>, các nhà thiết kế thường thiết kế không gian mang tính cá nhân hóa. Những ý tưởng, suy nghĩ của khách hàng &nbsp;được đáp ứng gần như tối đa nhất trong bản thiết kế.</span></span></p>
+                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Điều dễ nhận thấy trong&nbsp;<strong>thiết kế nội thất KLEVER HOUSE</strong>, các nhà thiết kế thường thiết kế không gian mang tính cá nhân hóa. Những ý tưởng, suy nghĩ của khách hàng &nbsp;được đáp ứng gần như tối đa nhất trong bản thiết kế.</span></span></p>
 
                             <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Độ tinh xảo cao</strong></span></span></p>
 
                             <p align="center"><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><img alt="" height="635" src="{{ asset('assets/image/page/design-style2.jpg') }}" width="1000" /></span></span></p>
 
-                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Các chi tiết, hoa văn, đường nét phào chỉ, đồ nội thất cấu thành nên không gian dường như đạt đến mức độ tinh xảo nhất với công năng tối ưu, giúp cuộc sống con người trở nên tiện nghi, thoải mái.</span></span></p>
+                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Các chi tiết đồ nội thất cấu thành nên không gian dường như đạt đến mức độ tinh xảo nhất với công năng tối ưu, giúp cuộc sống con người trở nên tiện nghi, thoải mái.</span></span></p>
 
                             <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Vật liệu cao cấp</strong></span></span></p>
 
                             <p align="center"><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><img alt="" height="635" src="{{ asset('assets/image/page/design-style3.jpg') }}" width="1000" /></span></span></p>
 
-                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Đối với&nbsp;<strong>thiết kế nội thất bighome</strong>&nbsp;các vật liệu sử dụng là những loại cao cấp, độc nhất kèm theo giá thành đắt đỏ. Bạn có thể bị choáng ngợp bởi những đồ nội thất, vật dụng được dát vàng hay được làm từ những loại gỗ cao cấp bậc nhất hiện này trong ngôi nhà của nghệ sỹ, ngôi sao giàu có.</span></span></p>
+                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;">Đối với&nbsp;<strong>thiết kế nội thất KLEVER HOUSE</strong>&nbsp;các vật liệu sử dụng là những loại cao cấp, độc nhất kèm theo giá thành đắt đỏ. Bạn có thể bị choáng ngợp bởi những đồ nội thất được làm từ những loại gỗ cao cấp bậc nhất hiện này trong ngôi nhà của nghệ sỹ, ngôi sao giàu có.</span></span></p>
 
                             <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Sự khéo léo, chuyên nghiệp</strong></span></span></p>
 
                             <p align="center"><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><img alt="" height="635" src="{{ asset('assets/image/page/design-style4.jpg') }}" width="1000" /></span></span></p>
 
-                            <p align="center"><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><em>Chùm đèn hoa lệ, đường nét phào chỉ tinh tế, không gian như được tráng bạc mang đến cảm nhận bóng bảy cho con người</em></span></span></p>
-
-                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Phong cách thiết kế nội thất bighome</strong>&nbsp;kén chọn những nhà thiết kế. Bởi nó chỉ được nhào nặn qua bàn tay khéo léo, tỷ mỷ nhất từ các nghệ nhân thiết kế, mang lại những giá trị đích thực cho cuộc sống.</span></span></p>
+                            <p><span style="font-size:16px;"><span style="font-family:Times New Roman,Times,serif;"><strong>Phong cách thiết kế nội thất KLEVER HOUSE</strong>&nbsp;kén chọn những nhà thiết kế. Bởi nó chỉ được nhào nặn qua bàn tay khéo léo, tỷ mỷ nhất từ các nghệ nhân thiết kế, mang lại những giá trị đích thực cho cuộc sống.</span></span></p>
                         </div>
                     </div>
                 </div>

@@ -19,7 +19,7 @@ Route::get('/introduction', 'UserHomeController@introduce')->name('introduction'
 Route::get('/design-style', 'UserHomeController@designStyle')->name('design-style');
 Route::get('/leader', 'UserHomeController@leader')->name('leader');
 // Product
-Route::get('/product/{status?}', 'UserProductController@list')->name('product_list');
+Route::get('/product/list/{status?}', 'UserProductController@list')->name('product_list');
 Route::get('/product/{id}', 'UserProductController@show')->name('product_detail');
 // Service
 Route::get('/service', 'UserHomeController@service')->name('service');

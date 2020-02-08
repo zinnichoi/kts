@@ -56,7 +56,7 @@
     <div id="wrapper" class="width-float ">
         <div class="map-contact">
             <iframe
-                    src="https://maps.google.com/maps?width=950&amp;height=700&amp;hl=en&amp;q=XQ58%2BJW%20Ph%C3%BA%20La%2C%20H%C3%A0%20%C4%90%C3%B4ng%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam+(Title)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
+                src="https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=XQ49%2BJM%20Ph%C3%BA%20La%2C%20H%C3%A0%20%C4%90%C3%B4ng%2C%20Hanoi%2C%20Vietnam+(Title)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
                 width="100%"
                 height="300"
                 frameborder="0"
@@ -70,21 +70,39 @@
                     <div class="contactItem"><i class="iconLocation"></i>
                         <h4>Địa chỉ</h4>
 
-                        <p>V6-B20 Khu đô thị Văn Phú, Hà Đông</p>
+                        <p>
+                            Văn phòng: V6-B20 Khu đô thị Văn Phú, Hà Đông
+                            <br>
+                            <br>
+                            Xưởng sản xuất: Số 6: làng nghề Chàng Sơn, Thạch Thất
+                        </p>
                     </div>
 
                     <div class="contactItem"><i class="iconPhone"></i>
 
                         <h4>Phone</h4>
 
-                        <p>0984 032 996</p>
+                        <p>0976 420 322
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            0984 032 996
+                        </p>
                     </div>
 
                     <div class="contactItem"><i class="iconEmail"></i>
 
                         <h4>E-mail</h4>
 
-                        <p>phuanhduckts@gmail.com</p>
+                        <p>
+                            kimtung.neu@gmail.com
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            phuanhduckts@gmail.com
+                        </p>
                     </div>
                 </div>
             </div>

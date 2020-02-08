@@ -72,7 +72,7 @@
 
                                 <div class="col col-md-8">
                                     <div class="content">
-                                        <p><strong>KLEVER STUDIO&nbsp;gửi lời chào và cảm ơn chân thành đến quý khách
+                                        <p><strong>Nội Thất KLEVER HOUSE&nbsp;gửi lời chào và cảm ơn chân thành đến quý khách
                                                 hàng đã quan tâm và sử dụng các dịch vụ và sản phẩm chất lượng cao của
                                                 công ty chúng tôi trong thời gian qua.</strong></p>
 
@@ -88,10 +88,8 @@
                                             phẩm như ý, làm hài lòng khách hàng.</p>
 
                                         <p>Nhằm đem lại những sản phẩm nội thất giá trị nhất cho quý khách
-                                            hàng,&nbsp;<strong>KLEVER STUDIO</strong>là một trong những đối tác mà quý
-                                            khách hàng có thể tin tưởng để lựa chọn.&nbsp;<strong>Nội thất
-                                                BigHome</strong>&nbsp;chuyên hoạt động trong lĩnh vực thiết kế và thi
-                                            công nội thất đã nhiều năm, đảm nhận thi công từ A - Z.</p>
+                                            hàng,&nbsp;<strong>Nội Thất KLEVER HOUSE</strong> là một trong những đối tác mà quý
+                                            khách hàng có thể tin tưởng để lựa chọn.
                                     </div>
                                 </div>
                             </div>
@@ -101,7 +99,7 @@
 
                         <p><strong>Không chỉ là nghệ thuật kiến trúc…</strong>&nbsp;…Mà đó sự hòa quyện giữa nghệ thuật
                             trang trí, nghệ thuật thị giác, văn học và âm nhạc… các nhà thiết kế thiết kế nội thất
-                            Bighome đã tạo ra một xu hướng hoàn toàn mới trong việc bài trí không gian sống hiện đại,
+                            Nội Thất KLEVER HOUSE đã tạo ra một xu hướng hoàn toàn mới trong việc bài trí không gian sống hiện đại,
                             sang trọng…Là đơn vị tiên phong trong lĩnh vực sản xuất thiết kế và thi công nội thất. Hơn
                             15 năm tạo dấu ấn với các công trình độc đáo mang phong cách riêng…</p>
 
@@ -109,30 +107,18 @@
                             vào những sở thích riêng có của tâm hồn… Nơi tràn ngập tiếng cười, ấm êm tình thân và những
                             khoảng lặng yên bình trong cuộc sống</p>
 
-                        <p><strong>Với sứ mệnh của mình</strong>&nbsp;Bighome luôn hướng tới sáng tạo các không gian
+                        <p><strong>Với sứ mệnh của mình</strong>&nbsp;Nội Thất KLEVER HOUSE luôn hướng tới sáng tạo các không gian
                             sống tiện nghi, sang trọng và độc đáo. Những không gian sống mang đậm nét cá tính của chủ
                             nhân - nơi thăng hoa được tiếp sức sau giấc ngủ yên lành…</p>
 
-                        <p><strong>Năm 2004 …</strong>&nbsp;Năm đánh dấu sự khởi đầu Bighome tại Việt Nam…Những thiết kế
-                            thời kỳ đầu đã tạo được sự khác biệt với không gian phóng khoáng trong cách trang trí và
-                            phối đồ mạng đậm hơi thở của cuộc sống hiện đại…</p>
-
                         <p><strong>Hành trình tiếp nối…</strong></p>
 
-                        <p><strong>Những năm 2008</strong>, thời kỳ thị trường Bất động sản cực kỳ sôi động. Các thiết
-                            kế kết hợp giữa hiện đại và tân cổ điển của Bighome ngày càng được ưa chuộng…Công trình nối
-                            tiếp công trình… những tác phẩm nghệ thuật được các kiến trúc sư tài năng hoàn thành không
-                            chỉ mang đến những không gian nội thất ấn tượng mà còn là sự khởi đầu của những trào lưu
-                            trang trí nội thất tại Việt Nam… Hiện tại và tương lai… Những không gian nội thất đem đến
-                            cảm giác thoải mái, không quá cầu kỳ, tạo cảm giác gần gũi, thân thuộc mà vẫn giữ được nét
-                            sang trọng và lịch lãm…</p>
-
                         <p><strong>Bước vào một căn phòng cũng là mở ra một thế giới…</strong>&nbsp;Dẫn đầu trào lưu nội
-                            thất tại Việt Nam Những mẫu thiết kế của Bighome như một một bản giao hưởng nhẹ nhàng, sâu
+                            thất tại Việt Nam Những mẫu thiết kế của Nội Thất KLEVER HOUSE như một một bản giao hưởng nhẹ nhàng, sâu
                             sắc luôn được tiếp nối trong hành trình kiến tạo không gian sống cho từng ngôi nhà… Đội ngũ
                             thiết kế chuyên nghiệp Kế thừa tài sản cực kỳ quý giá là những mẫu thiết kế kinh điển của
                             trường phái nội thất Châu Âu phối hợp giữa hiện đại và truyền thống và gu thẩm mỹ thời
-                            thượng, các nhà thiết kế nội thất Bighome đã và đang phát huy tới mức cao nhất các tác phẩm
+                            thượng, các nhà thiết kế nội thất Nội Thất KLEVER HOUSE đã và đang phát huy tới mức cao nhất các tác phẩm
                             nghệ thuật của mình… Kinh nghiệm thiết kế Trải nghiệm qua hàng ngàn công trình lớn nhỏ tại
                             Việt Nam… như: Ecopark, Vinhome (Vinhomes Riverside), Vinhome Thăng Long…</p>
 
@@ -140,9 +126,9 @@
 
                         <p><strong>Tính đồng bộ:</strong>&nbsp;Được thể hiện từ những chi tiết nhỏ nhất như góc cạnh,
                             đường nét, hoa văn cho tới các vật dụng nội thất trong ngôi nhà. Với đội ngũ chuyên gia hơn
-                            14 năm kinh nghiệm đồng hành cùng các mẫu thiết kế tinh xảo, các sản phẩm của Bighome luôn
+                            14 năm kinh nghiệm đồng hành cùng các mẫu thiết kế tinh xảo, các sản phẩm của Nội Thất KLEVER HOUSE luôn
                             mang trong mình giá trị của một tác phẩm nghệ thuật… Công nghệ sản xuất hiện đại: Với quy mô
-                            nhà máy hơn 3.000m2… Các sản phẩm được sản xuất trên dây chuyền, máy móc tiên tiến, hiện
+                            nhà máy hơn 1.000m2… Các sản phẩm được sản xuất trên dây chuyền, máy móc tiên tiến, hiện
                             đại.</p>
 
                         <p><strong>Vật liệu:</strong>&nbsp;Các sản phẩm gỗ như Sồi đỏ, sồi trắng, óc chó…được nhập hoàn
@@ -155,15 +141,6 @@
 
                         <p>&nbsp;</p>
                     </div>
-                </div>
-            </div>
-
-            <div class="ourTeam">
-                <!-- our team -->
-            </div>
-            <!-- Doi tac -->
-            <div class="ourPartners" style="float: left;width: 100%;    padding: 45px 0 70px 0;">
-                <div class="ourClientsBlock">
                 </div>
             </div>
             <style>

@@ -23,6 +23,43 @@ class UserProductController extends Controller
      */
     public function show($id)
     {
-        return view('user/product/detail');
+        switch ($id) {
+            case '1' : {
+                return view('user/product/detail1');
+            }
+            case '2' : {
+                return view('user/product/detail2');
+            }
+            case '3' : {
+                return view('user/product/detail3');
+            }
+            case '4' : {
+                return view('user/product/detail4');
+            }
+            case '5' : {
+                return view('user/product/detail5');
+            }
+            case '6' : {
+                return view('user/product/detail6');
+            }
+            case '7' : {
+                return view('user/product/detail7');
+            }
+            case '8' : {
+                return view('user/product/detail8');
+            }
+            case '9' : {
+                return view('user/product/detail9');
+            }
+            case '10' : {
+                return view('user/product/detail10');
+            }
+            case '11' : {
+                return view('user/product/detail11');
+            }
+            default: {
+                return view('user/product/detail1');
+            }
+        }
     }
 }

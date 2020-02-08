@@ -28,7 +28,7 @@
 
         <div class="singleProjectWrap clear">
             <div class="singleProjectGallery">
-                <a href="http://w3ni601.nanoweb.com.vn/san-pham-nc10673.html" class="backToPortfolio"></a>
+                <a class="backToPortfolio"></a>
                 <a href="javascript:void(0);" class="fullScreen"></a>
                 <a href="javascript:void(0);" class="smallScreen"></a>
                 <div class="owl-gallery-wrap">

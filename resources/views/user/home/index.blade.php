@@ -81,9 +81,7 @@
                                  data-captionhidden="on"
                                  style="z-index: 21">
                                 <div class="homeScreenDesc">
-                                    <span>Architecture studio est. 1991</span>
-                                    <h2>Good design is as little design as possible</h2>
-                                    <a class="seeMoreLink" href="#">SEE MORE</a>
+                                    <h2>Good design makes a product understandable</h2>
                                 </div>
                             </div>
                         </li>
@@ -127,187 +125,6 @@
                 </div>
             </div>
         </div>
-    {{--<div class="aboutUsBlock clear">--}}
-
-    {{--<!-- ve chung toi -->--}}
-    {{--<div class="aboutUsDesc">--}}
-    {{--<h3>Tổng quan về TOAM STUDIO</h3>--}}
-    {{--<p> Với xu hướng phát triển kinh tế hiện nay, mức sống người dân ngày càng cao thì nhu cầu&nbsp;làm đẹp--}}
-    {{--không gian sống&nbsp;và&nbsp;không gian nơi làm việc&nbsp;ngày càng được chú trọng. Nhưng để có một&nbsp;không--}}
-    {{--gian đẹp, đòi hỏi phải hội đủ nhiều yếu tố, từ việc sắp xếp vị trí của&nbsp;đồ dùng nội thất, cũng--}}
-    {{--như hình dáng - kích thước của từng sản phẩm, đến cách phối màu, phối ánh sáng ...&nbsp; sao cho hài--}}
-    {{--hòa, hợp lý theo từng không gian nhất định.--}}
-
-    {{--Xem thêm--}}
-    {{--</p>--}}
-    {{--<a class="learnMoreLink" href="http://w3ni601.nanoweb.com.vn/gioi-thieu">Xem thêm<i></i></a>--}}
-    {{--</div>--}}
-    {{--</div>--}}
-    <!-- Du an hot -->
-    {{--<div class="portfolioBlock clear">--}}
-    {{--<div class="item-portfolio">--}}
-    {{--<div class="img-item-portfolio">--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6122.html">--}}
-    {{--<img--}}
-    {{--src="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/default/s800_800/lzpngsquare.png"--}}
-    {{--data-original="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/718/news/ava/s800_800/chon-noi-that-phu-hop-cho-nha-dep-03-1512634059.jpg"--}}
-    {{--class="img-responsive imglazyload" alt="Thiết kế nội thất chung cư cao cấp Times City">--}}
-    {{--</a>--}}
-    {{--</div>--}}
-    {{--<div class="title-item-portfolio">--}}
-    {{--<h2>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6122.html"--}}
-    {{--title="Thiết kế nội thất chung cư cao cấp Times City">Thiết kế nội thất chung cư cao cấp--}}
-    {{--Times City</a>--}}
-    {{--</h2>--}}
-    {{--<div class="des-news-incate">--}}
-    {{--<p style="display: block;">--}}
-    {{--Dự án: Vẻ đẹp sang trọng, lịch lãm căn hộ nhà Anh Long - Time City--}}
-    {{--Chủ đầu tư: Anh Long--}}
-    {{--Căn hộ: Chung cư Times City--}}
-    {{--Thiết... </p>--}}
-    {{--</div>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6122.html"--}}
-    {{--class="view-more"><span>Xem thêm <i></i></span></a>--}}
-    {{--</div>--}}
-    {{--<div class="portfolioItemOverlay"></div>--}}
-    {{--</div>--}}
-    {{--<div class="item-portfolio">--}}
-    {{--<div class="img-item-portfolio">--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6137.html">--}}
-    {{--<img--}}
-    {{--src="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/default/s800_800/lzpngsquare.png"--}}
-    {{--data-original="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/718/news/ava/s800_800/11-1512405901.jpg"--}}
-    {{--class="img-responsive imglazyload" alt="Thiết kế nội thất chung cư cao cấp Times City">--}}
-    {{--</a>--}}
-    {{--</div>--}}
-    {{--<div class="title-item-portfolio">--}}
-    {{--<h2>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6137.html"--}}
-    {{--title="Thiết kế nội thất chung cư cao cấp Times City">Thiết kế nội thất chung cư cao cấp--}}
-    {{--Times City</a>--}}
-    {{--</h2>--}}
-    {{--<div class="des-news-incate">--}}
-    {{--<p style="display: block;">--}}
-    {{--Dự án: Vẻ đẹp sang trọng, lịch lãm căn hộ nhà Anh Long - Time City--}}
-    {{--Chủ đầu tư: Anh Long--}}
-    {{--Căn hộ: Chung cư Times City--}}
-    {{--Thiết... </p>--}}
-    {{--</div>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6137.html"--}}
-    {{--class="view-more"><span>Xem thêm <i></i></span></a>--}}
-    {{--</div>--}}
-    {{--<div class="portfolioItemOverlay"></div>--}}
-    {{--</div>--}}
-    {{--<div class="item-portfolio">--}}
-    {{--<div class="img-item-portfolio">--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-park-hill-nd6138.html">--}}
-    {{--<img--}}
-    {{--src="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/default/s800_800/lzpngsquare.png"--}}
-    {{--data-original="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/718/news/ava/s800_800/item5-480x480-1512405885.png"--}}
-    {{--class="img-responsive imglazyload" alt="Thiết kế nội thất chung cư cao cấp Park Hill ">--}}
-    {{--</a>--}}
-    {{--</div>--}}
-    {{--<div class="title-item-portfolio">--}}
-    {{--<h2>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-park-hill-nd6138.html"--}}
-    {{--title="Thiết kế nội thất chung cư cao cấp Park Hill ">Thiết kế nội thất chung cư cao cấp Park--}}
-    {{--Hill </a>--}}
-    {{--</h2>--}}
-    {{--<div class="des-news-incate">--}}
-    {{--<p style="display: block;">--}}
-    {{--Dự án: Vẻ đẹp sang trọng, lịch lãm căn hộ nhà Anh Long - Chung cư cao cấp Park Hill&nbsp;--}}
-    {{--Chủ đầu tư: Anh Long--}}
-    {{--Căn hộ:... </p>--}}
-    {{--</div>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-park-hill-nd6138.html"--}}
-    {{--class="view-more"><span>Xem thêm <i></i></span></a>--}}
-    {{--</div>--}}
-    {{--<div class="portfolioItemOverlay"></div>--}}
-    {{--</div>--}}
-    {{--<div class="item-portfolio">--}}
-    {{--<div class="img-item-portfolio">--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6139.html">--}}
-    {{--<img--}}
-    {{--src="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/default/s800_800/lzpngsquare.png"--}}
-    {{--data-original="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/718/news/ava/s800_800/grid4-960x960-1512405860.png"--}}
-    {{--class="img-responsive imglazyload" alt="Thiết kế nội thất chung cư cao cấp Times City">--}}
-    {{--</a>--}}
-    {{--</div>--}}
-    {{--<div class="title-item-portfolio">--}}
-    {{--<h2>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6139.html"--}}
-    {{--title="Thiết kế nội thất chung cư cao cấp Times City">Thiết kế nội thất chung cư cao cấp--}}
-    {{--Times City</a>--}}
-    {{--</h2>--}}
-    {{--<div class="des-news-incate">--}}
-    {{--<p style="display: block;">--}}
-    {{--Dự án: Vẻ đẹp sang trọng, lịch lãm căn hộ nhà Anh Long - Time City--}}
-    {{--Chủ đầu tư: Anh Long--}}
-    {{--Căn hộ: Chung cư Times City--}}
-    {{--Thiết... </p>--}}
-    {{--</div>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6139.html"--}}
-    {{--class="view-more"><span>Xem thêm <i></i></span></a>--}}
-    {{--</div>--}}
-    {{--<div class="portfolioItemOverlay"></div>--}}
-    {{--</div>--}}
-    {{--<div class="item-portfolio">--}}
-    {{--<div class="img-item-portfolio">--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6140.html">--}}
-    {{--<img--}}
-    {{--src="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/default/s800_800/lzpngsquare.png"--}}
-    {{--data-original="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/718/news/ava/s800_800/grid2-960x960-1512405831.png"--}}
-    {{--class="img-responsive imglazyload" alt="Thiết kế nội thất chung cư cao cấp Times City">--}}
-    {{--</a>--}}
-    {{--</div>--}}
-    {{--<div class="title-item-portfolio">--}}
-    {{--<h2>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6140.html"--}}
-    {{--title="Thiết kế nội thất chung cư cao cấp Times City">Thiết kế nội thất chung cư cao cấp--}}
-    {{--Times City</a>--}}
-    {{--</h2>--}}
-    {{--<div class="des-news-incate">--}}
-    {{--<p style="display: block;">--}}
-    {{--Dự án: Vẻ đẹp sang trọng, lịch lãm căn hộ nhà Anh Long - Time City--}}
-    {{--Chủ đầu tư: Anh Long--}}
-    {{--Căn hộ: Chung cư Times City--}}
-    {{--Thiết... </p>--}}
-    {{--</div>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6140.html"--}}
-    {{--class="view-more"><span>Xem thêm <i></i></span></a>--}}
-    {{--</div>--}}
-    {{--<div class="portfolioItemOverlay"></div>--}}
-    {{--</div>--}}
-    {{--<div class="item-portfolio">--}}
-    {{--<div class="img-item-portfolio">--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6143.html">--}}
-    {{--<img--}}
-    {{--src="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/default/s800_800/lzpngsquare.png"--}}
-    {{--data-original="http://w3ni601.nanoweb.com.vn/mediacenter/media/images/710/news/ava/s800_800/du-lich-1-1-1511771006.jpg"--}}
-    {{--class="img-responsive imglazyload" alt="Thiết kế nội thất chung cư cao cấp Times City">--}}
-    {{--</a>--}}
-    {{--</div>--}}
-    {{--<div class="title-item-portfolio">--}}
-    {{--<h2>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6143.html"--}}
-    {{--title="Thiết kế nội thất chung cư cao cấp Times City">Thiết kế nội thất chung cư cao cấp--}}
-    {{--Times City</a>--}}
-    {{--</h2>--}}
-    {{--<div class="des-news-incate">--}}
-    {{--<p style="display: block;">--}}
-    {{--Dự án: Vẻ đẹp sang trọng, lịch lãm căn hộ nhà Anh Long - Time City--}}
-    {{--Chủ đầu tư: Anh Long--}}
-    {{--Căn hộ: Chung cư Times City--}}
-    {{--Thiết... </p>--}}
-    {{--</div>--}}
-    {{--<a href="http://w3ni601.nanoweb.com.vn/thiet-ke-noi-that-chung-cu-cao-cap-times-city-nd6143.html"--}}
-    {{--class="view-more"><span>Xem thêm <i></i></span></a>--}}
-    {{--</div>--}}
-    {{--<div class="portfolioItemOverlay"></div>--}}
-    {{--</div>--}}
-    {{--</div>    --}}
-    <!-- dich vu -->
         <div class="ourServiceBlock">
             <div class="homeBlockTitle">Dịch vụ của chúng tôi</div>
             <div class="ourServiceWrap clear">
@@ -316,17 +133,16 @@
                         <a>
                             <img
                                 src="{{ asset('assets/image/page/default.png') }}"
-                                data-original="{{ asset('assets/image/page/thiet-ke-nha-o.jpg') }}"
-                                class="img-responsive imglazyload" alt="THIẾT KẾ NHÀ Ở">
+                                data-original="{{ asset('assets/image/page/dv-chungcu.jpg') }}"
+                                class="img-responsive imglazyload" alt="THIẾT KẾ NỘI THẤT CHUNG CƯ">
                         </a>
                     </div>
                     <a class="overlay"></a>
                     <div class="ourServiceItemContent" style="top: 146px;">
                         <span>0<spam class="number_sell">1</spam></span>
-                        <h4><a title="THIẾT KẾ NHÀ Ở">THIẾT KẾ
-                                NHÀ Ở</a></h4>
-                        <p style="word-wrap: break-word;">KLEVER đồng hành cùng Khách hàng, chủ đầu tư tạo ra những không
-                            gian sống mang dấu ấn của mình và mang tính thẩm mỹ cao cùng chất lượng vượt trội
+                        <h4><a title="THIẾT KẾ NHÀ Ở">THIẾT KẾ NỘI THẤT CHUNG CƯ</a></h4>
+                        <p style="word-wrap: break-word;">KLEVER HOUSE đồng hành cùng Khách hàng, chủ đầu tư tạo ra những không
+                            gian sống mang dấu ấn của mình và mang tính thẩm mỹ cao cùng chất lượng vượt trội.
                         </p>
                     </div>
                 </div>
@@ -335,17 +151,17 @@
                         <a>
                             <img
                                 src="{{ asset('assets/image/page/default.png') }}"
-                                data-original="{{ asset('assets/image/page/thiet-ket-kt-canh-quan.jpg') }}"
-                                class="img-responsive imglazyload" alt="THIẾT KẾ KIẾN TRÚC CẢNH QUAN">
+                                data-original="{{ asset('assets/image/page/dv-biethu.jpg') }}"
+                                class="img-responsive imglazyload" alt="THIẾT KẾ NỘI THẤT BIỆT THỰ">
                         </a>
                     </div>
                     <a class="overlay"></a>
                     <div class="ourServiceItemContent" style="top: 146px;">
                         <span>0<spam class="number_sell">1</spam></span>
                         <h4><a
-                                title="THIẾT KẾ KIẾN TRÚC CẢNH QUAN">THIẾT KẾ KIẾN TRÚC CẢNH QUAN</a></h4>
-                        <p style="word-wrap: break-word;">KLEVER cung cấp dịch vụ thiết kế kiến trúc cảnh quan như: cảnh
-                            quan khu đô thị, cảnh quan sân vườn, nhà ở... giúp hoàn thiện và nâng cao thẩm mỹ cho dự án
+                                title="THIẾT KẾ KIẾN TRÚC CẢNH QUAN">THIẾT KẾ NỘI THẤT BIỆT THỰ</a></h4>
+                        <p style="word-wrap: break-word;">KLEVER HOUSE cung cấp dịch vụ thiết kế nội thất như: cảnh
+                            quan sân vườn, nội thất các phòng,... giúp hoàn thiện và nâng cao thẩm mỹ cho dự án.
                         </p>
                     </div>
                 </div>
@@ -354,18 +170,16 @@
                         <a>
                             <img
                                 src="{{ asset('assets/image/page/default.png') }}"
-                                data-original="{{ asset('assets/image/page/thiet-ke-cong-trinh-thuong-mai.jpg') }}"
-                                class="img-responsive imglazyload" alt="THIẾT KẾ CÔNG TRÌNH THƯƠNG MẠI">
+                                data-original="{{ asset('assets/image/page/dv-nhapho.jpg') }}"
+                                class="img-responsive imglazyload" alt="THIẾT KẾ NỘI THẤT NHÀ PHỐ">
                         </a>
                     </div>
                     <a class="overlay"></a>
                     <div class="ourServiceItemContent" style="top: 146px;">
                         <span>0<spam class="number_sell">1</spam></span>
                         <h4><a
-                                title="THIẾT KẾ CÔNG TRÌNH THƯƠNG MẠI">THIẾT KẾ CÔNG TRÌNH THƯƠNG MẠI</a></h4>
-                        <p style="word-wrap: break-word;">KLEVER cung cấp dịch vụ thiết kế với những công trình thương mại
-                            như: nhà hàng, khách sạn, cafe với phong cách kiến trúc đa dạng, thẻ hiện rõ nét văn hoá của
-                            từng vùng miền
+                                title="THIẾT KẾ CÔNG TRÌNH THƯƠNG MẠI">THIẾT KẾ NỘI THẤT NHÀ PHỐ</a></h4>
+                        <p style="word-wrap: break-word;">KLEVER HOUSE cung cấp dịch vụ thiết kế nội thất với những công trình nhà ống, nhà liền kề, nhà song lập, nhà cấp 4 với phong cách Tân Cổ, Á Đông, hiện đại, ...
                         </p>
                     </div>
                 </div>
@@ -374,17 +188,16 @@
                         <a>
                             <img
                                 src="{{ asset('assets/image/page/default.png') }}"
-                                data-original="{{ asset('assets/image/page/hop-tac-thiet-ke.jpg') }}"
-                                class="img-responsive imglazyload" alt="HỢP TÁC THIẾT KẾ">
+                                data-original="{{ asset('assets/image/page/dv-vanphong.jpg') }}"
+                                class="img-responsive imglazyload" alt="THIẾT KẾ NỘI THẤT VĂN PHÒNG">
                         </a>
                     </div>
                     <a class="overlay"></a>
                     <div class="ourServiceItemContent" style="top: 146px;">
                         <span>0<spam class="number_sell">1</spam></span>
-                        <h4><a title="HỢP TÁC THIẾT KẾ">HỢP TÁC
-                                THIẾT KẾ</a></h4>
-                        <p style="word-wrap: break-word;">KLEVER đã và đang hợp tác với một số đơn vị thiết kế trong và
-                            ngoài nước để triển khai các dự án có quy mô lớn và tính chuyên môn cao
+                        <h4><a title="HỢP TÁC THIẾT KẾ">THIẾT KẾ NỘI THẤT VĂN PHÒNG</a></h4>
+                        <p style="word-wrap: break-word;">KLEVER HOUSE đã và đang hợp tác với một số đơn vị thiết kế trong và
+                            ngoài nước để triển khai các tòa nhà văn phòng có quy mô lớn và tiến độ nhanh.
                         </p>
                     </div>
                 </div>
@@ -393,17 +206,15 @@
                         <a>
                             <img
                                 src="{{ asset('assets/image/page/default.png') }}"
-                                data-original="{{ asset('assets/image/page/san-xuat-thi-cong.jpg') }}"
-                                class="img-responsive imglazyload" alt="SẢN XUẤT THI CÔNG">
+                                data-original="{{ asset('assets/image/page/dv-spa.png') }}"
+                                class="img-responsive imglazyload" alt="THIẾT KẾ NỘI THẤT SPA, SHOP">
                         </a>
                     </div>
                     <a class="overlay"></a>
                     <div class="ourServiceItemContent" style="top: 146px;">
                         <span>0<spam class="number_sell">1</spam></span>
-                        <h4><a title="SẢN XUẤT THI CÔNG">SẢN
-                                XUẤT THI CÔNG</a></h4>
-                        <p style="word-wrap: break-word;">KLEVER cung cấp dịch vụ thiết kế kiến trúc cảnh quan như: cảnh
-                            quan khu đô thị, cảnh quan sân vườn, nhà ở... giúp hoàn thiện và nâng cao thẩm mỹ cho dự án
+                        <h4><a title="SẢN XUẤT THI CÔNG">THIẾT KẾ NỘI THẤT SPA, SHOP QUẦN ÁO, QUÁN CAFE</a></h4>
+                        <p style="word-wrap: break-word;">KLEVER HOUSE cung cấp dịch vụ thiết kế nội thất như nhà hàng, quán cafe, spa đem lại không gian xanh nhưng vẫn đảm bảo công năng và giá trị sử dụng.
                         </p>
                     </div>
                 </div>
@@ -413,16 +224,15 @@
                             <img
                                 src="{{ asset('assets/image/page/default.png') }}"
                                 data-original="{{ asset('assets/image/page/trang-tri-noi-that.png') }}"
-                                class="img-responsive imglazyload" alt="TRANG TRÍ NỘI THẤT">
+                                class="img-responsive imglazyload" alt="THIẾT KẾ NỘI THẤT BÁN LẺ">
                         </a>
                     </div>
                     <a class="overlay"></a>
                     <div class="ourServiceItemContent" style="top: 146px;">
                         <span>0<spam class="number_sell">1</spam></span>
-                        <h4><a title="TRANG TRÍ NỘI THẤT">TRANG
-                                TRÍ NỘI THẤT</a></h4>
-                        <p style="word-wrap: break-word;">KLEVER cung cấp dịch vụ &amp; sản phẩm trang trí nội thất với
-                            mong muốn tạo ra những góc nhìn hoàn chỉnh tô đậm thêm cho phong cách của từng dự án
+                        <h4><a title="TRANG TRÍ NỘI THẤT">THIẾT KẾ NỘI THẤT BÁN LẺ</a></h4>
+                        <p style="word-wrap: break-word;">KLEVER HOUSE cung cấp dịch vụ &amp; sản phẩm trang trí nội thất với
+                            mong muốn tạo ra những góc nhìn hoàn chỉnh tô đậm thêm cho phong cách của từng dự án.
                         </p>
                     </div>
                 </div>
@@ -447,12 +257,12 @@
                                 </div>
                                 <div class="item-testimonial-quote">
                                     <div class="testimonialAuthor">
-                                        <strong>Ms Hồng Nhung</strong>
-                                        <p style="word-wrap: break-word;">Giám đốc</p></div>
+                                        <strong>Mrs Yan My</strong>
+                                        <p style="word-wrap: break-word;">Á Hậu</p></div>
                                     <p style="word-wrap: break-word;">
-                                    <p>KLEVER luôn đồng hành cùng Khách hàng, chủ đầu tư tạo ra những không gian sống mang
+                                    <p>KLEVER HOUSE luôn đồng hành cùng Khách hàng, chủ đầu tư tạo ra những không gian sống, tối ưu công năng kết hợp với đồ thông minh mang đậm
                                         dấu ấn của mình và mang tính thẩm mỹ cao cùng chất lượng vượt trội. Tôi rất hài
-                                        lòng</p>
+                                        lòng.</p>
                                     </p>
                                 </div>
                             </div>
@@ -464,12 +274,11 @@
                                 </div>
                                 <div class="item-testimonial-quote">
                                     <div class="testimonialAuthor">
-                                        <strong>Eric Williams</strong>
-                                        <p style="word-wrap: break-word;">Giám đốc KD</p></div>
+                                        <strong>Mrs Hải</strong>
+                                        <p style="word-wrap: break-word;">Giám đốc</p></div>
                                     <p style="word-wrap: break-word;">
-                                    <p>KLEVER luôn đồng hành cùng Khách hàng, chủ đầu tư tạo ra những không gian sống mang
-                                        dấu ấn của mình và mang tính thẩm mỹ cao cùng chất lượng vượt trội. Tôi rất hài
-                                        lòng</p>
+                                    <p>KLEVER HOURSE luôn đồng hành cùng Khách hàng, đem lại cho tôi căn hộ mang phong cách tân cổ điển và sang trọng. Tôi rất hài
+                                        lòng.</p>
                                     </p>
                                 </div>
                             </div>
@@ -505,57 +314,43 @@
                     <div class="ourClientItem">
                         <a href="#" title="Đối tác 1" target="_blank">
                             <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/67_1512432459_415a25e34bac272.png"
+                                src="{{ asset('assets/image/page/doitac1.jpg') }}"
                                 alt="Đối tác 1"/>
                         </a>
                     </div>
                     <div class="ourClientItem">
                         <a href="#" title="Đối tác 2" target="_blank">
                             <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/616_1512432471_3365a25e35747866.png"
+                                src="{{ asset('assets/image/page/doitac2.jpg') }}"
                                 alt="Đối tác 2"/>
                         </a>
                     </div>
                     <div class="ourClientItem">
                         <a href="#" title="Đối tác 3" target="_blank">
                             <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/271_1512432485_6205a25e3650962a.png"
+                                src="{{ asset('assets/image/page/doitac3.jpg') }}"
                                 alt="Đối tác 3"/>
                         </a>
                     </div>
                     <div class="ourClientItem">
                         <a href="#" title="Đối tác 4" target="_blank">
                             <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/912_1512432497_5025a25e3712b46d.png"
+                                src="{{ asset('assets/image/page/doitac4.jpg') }}"
                                 alt="Đối tác 4"/>
                         </a>
                     </div>
                     <div class="ourClientItem">
                         <a href="#" title="Đối tác 5" target="_blank">
                             <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/181_1512432509_8185a25e37d91541.png"
+                                src="{{ asset('assets/image/page/doitac5.jpg') }}"
                                 alt="Đối tác 5"/>
                         </a>
                     </div>
                     <div class="ourClientItem">
                         <a href="#" title="Đối tác 6" target="_blank">
                             <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/430_1512432524_3645a25e38c4cba0.png"
-                                alt="Đối tác 6"/>
-                        </a>
-                    </div>
-                    <div class="ourClientItem">
-                        <a href="#" title="Đối tác 7" target="_blank">
-                            <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/822_1512432538_3665a25e39a0f380.png"
-                                alt="Đối tác 7"/>
-                        </a>
-                    </div>
-                    <div class="ourClientItem">
-                        <a href="http://w3ni591.web3nhat.net/" title="Đối tác 8" target="_blank">
-                            <img
-                                src="http://w3ni601.nanoweb.com.vn/mediacenter/media/files/718/banners/972_1512432551_4555a25e3a74cac0.png"
-                                alt="Đối tác 8"/>
+                                src="{{ asset('assets/image/page/doitac6.jpg') }}"
+                                alt="Đối tác 5"/>
                         </a>
                     </div>
                 </div>
@@ -583,8 +378,8 @@
             <div class="homeOurLocation">
                 <iframe
                         {{--https://embedgooglemaps.com/en/--}}
-                    src="https://maps.google.com/maps?width=950&amp;height=700&amp;hl=en&amp;q=XQ58%2BJW%20Ph%C3%BA%20La%2C%20H%C3%A0%20%C4%90%C3%B4ng%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam+(Title)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
-                    width="100%"
+                        src="https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=XQ49%2BJM%20Ph%C3%BA%20La%2C%20H%C3%A0%20%C4%90%C3%B4ng%2C%20Hanoi%2C%20Vietnam+(Title)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
+                        width="100%"
                     height="300"
                     frameborder="0"
                     style="border:0"
@@ -599,21 +394,34 @@
                         <div class="contactItem"><i class="iconLocation"></i>
                             <h4>Địa chỉ</h4>
 
-                            <p id="js-uni-address">V6-B20 Khu đô thị Văn Phú, Hà Đông</p>
+                            <p id="js-uni-address">Văn phòng: V6-B20 Khu đô thị Văn Phú, Hà Đông
+                                <br>
+                                <br>
+                                Xưởng sản xuất: Số 6: làng nghề Chàng Sơn, Thạch Thất</p>
                         </div>
 
                         <div class="contactItem"><i class="iconPhone"></i>
 
                             <h4>Phone</h4>
 
-                            <p id="js-uni-phone">0984 032 996</p>
+                            <p id="js-uni-phone">0976 420 322
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                0984 032 996</p>
                         </div>
 
                         <div class="contactItem"><i class="iconEmail"></i>
 
                             <h4>E-mail</h4>
 
-                            <p id="js-uni-email">phuanhduckts@gmail.com</p>
+                            <p id="js-uni-email">kimtung.neu@gmail.com
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                phuanhduckts@gmail.com</p>
                         </div>
                     </div>
 

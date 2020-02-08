@@ -60,57 +60,57 @@
             </div>
             <div class="all-project-box">
 
-                <div class="item-news-2">
-                    <div class="all-post">
-                        <div class="image-post">
-                            <a href="{{ url('career/1') }}">
-                                <img class="img-responsive" src="{{ asset('assets/image/page/career-l1.jpg') }}" alt="Nhân viên kinh doanh bất động sản">
-                            </a>
-                        </div>
-                        <div class="content-post">
-                            <h4 class="all-title">
-                                <a href="{{ url('career/1') }}">Nhân viên kinh doanh bất động sản</a>
-                            </h4>
-                            <div class="text-note-padding">
-                                <p class="note-text width-100 block"><i class="fa fa-map-marker"></i>Điện Biên</p>
-                                <p class="note-text width-100 block"><i class="fa fa-money"></i>5.000.000 - 15.000.000
-                                </p>
-                                <p class="note-text width-100 block"><i class="fa fa-calendar-check-o"></i>30-12-2017
-                                </p>
+{{--                <div class="item-news-2">--}}
+{{--                    <div class="all-post">--}}
+{{--                        <div class="image-post">--}}
+{{--                            <a href="{{ url('career/1') }}">--}}
+{{--                                <img class="img-responsive" src="{{ asset('assets/image/page/career-l1.jpg') }}" alt="Nhân viên kinh doanh bất động sản">--}}
+{{--                            </a>--}}
+{{--                        </div>--}}
+{{--                        <div class="content-post">--}}
+{{--                            <h4 class="all-title">--}}
+{{--                                <a href="{{ url('career/1') }}">Nhân viên kinh doanh bất động sản</a>--}}
+{{--                            </h4>--}}
+{{--                            <div class="text-note-padding">--}}
+{{--                                <p class="note-text width-100 block"><i class="fa fa-map-marker"></i>Điện Biên</p>--}}
+{{--                                <p class="note-text width-100 block"><i class="fa fa-money"></i>5.000.000 - 15.000.000--}}
+{{--                                </p>--}}
+{{--                                <p class="note-text width-100 block"><i class="fa fa-calendar-check-o"></i>30-12-2017--}}
+{{--                                </p>--}}
 
-                            </div>
+{{--                            </div>--}}
 
-                            <div class="button-text inline-block">
-                                <a href="{{ url('career/1') }}">Xem chi tiết</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item-news-2">
-                    <div class="all-post">
-                        <div class="image-post">
-                            <a href="{{ url('career/1') }}">
-                                <img class="img-responsive"
-                                     src="{{ asset('assets/image/page/career-l2.jpg') }}"
-                                     alt="Chuyên Viên Kinh Doanh Bất Động Sản">
-                            </a>
-                        </div>
-                        <div class="content-post">
-                            <h4 class="all-title">
-                                <a href="{{ url('career/1') }}">Chuyên Viên Kinh Doanh Bất Động Sản</a>
-                            </h4>
-                            <div class="text-note-padding">
-                                <p class="note-text width-100 block"><i class="fa fa-map-marker"></i>Hà Nội</p>
-                                <p class="note-text width-100 block"><i class="fa fa-money"></i>Cạnh tranh</p>
-                                <p class="note-text width-100 block"><i class="fa fa-calendar-check-o"></i>30-09-2015
-                                </p>
-                            </div>
-                            <div class="button-text inline-block">
-                                <a href="{{ url('career/1') }}">Xem chi tiết</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                            <div class="button-text inline-block">--}}
+{{--                                <a href="{{ url('career/1') }}">Xem chi tiết</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item-news-2">--}}
+{{--                    <div class="all-post">--}}
+{{--                        <div class="image-post">--}}
+{{--                            <a href="{{ url('career/1') }}">--}}
+{{--                                <img class="img-responsive"--}}
+{{--                                     src="{{ asset('assets/image/page/career-l2.jpg') }}"--}}
+{{--                                     alt="Chuyên Viên Kinh Doanh Bất Động Sản">--}}
+{{--                            </a>--}}
+{{--                        </div>--}}
+{{--                        <div class="content-post">--}}
+{{--                            <h4 class="all-title">--}}
+{{--                                <a href="{{ url('career/1') }}">Chuyên Viên Kinh Doanh Bất Động Sản</a>--}}
+{{--                            </h4>--}}
+{{--                            <div class="text-note-padding">--}}
+{{--                                <p class="note-text width-100 block"><i class="fa fa-map-marker"></i>Hà Nội</p>--}}
+{{--                                <p class="note-text width-100 block"><i class="fa fa-money"></i>Cạnh tranh</p>--}}
+{{--                                <p class="note-text width-100 block"><i class="fa fa-calendar-check-o"></i>30-09-2015--}}
+{{--                                </p>--}}
+{{--                            </div>--}}
+{{--                            <div class="button-text inline-block">--}}
+{{--                                <a href="{{ url('career/1') }}">Xem chi tiết</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
             </div>
             <div class="center">

@@ -45,12 +45,11 @@
                                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                                                 <div class="serviceItem">
                                                     <div class="serviceHead">
-                                                        <img src="{{ asset('assets/image/page/dv-tkno.jpg') }}" class="done" alt="THIẾT KẾ NHÀ Ở">
-                                                        <h4><span>THIẾT KẾ NHÀ Ở</span></h4>
+                                                        <img src="{{ asset('assets/image/page/dv-chungcu.jpg') }}" class="done" alt="THIẾT KẾ NHÀ Ở">
+                                                        <h4><span>THIẾT KẾ NỘI THẤT CHUNG CƯ</span></h4>
                                                     </div>
                                                     <div class="servicePrice">
-                                                        <p><em>$</em><strong>200</strong></p>
-                                                        <p>square meter</p>
+                                                        <p>Liên hệ</p>
                                                     </div>
                                                     <div class="serviceDesc">
                                                         <p>Scheduling</p><br />
@@ -69,12 +68,11 @@
                                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                                                 <div class="serviceItem">
                                                     <div class="serviceHead">
-                                                        <img src="{{ asset('assets/image/page/dv-tkktcq.jpg') }}" class="done" alt="THIẾT KẾ KIẾN TRÚC CẢNH QUAN">
-                                                        <h4><span>THIẾT KẾ KIẾN TRÚC CẢNH QUAN</span></h4>
+                                                        <img src="{{ asset('assets/image/page/dv-biethu.jpg') }}" class="done" alt="THIẾT KẾ KIẾN TRÚC CẢNH QUAN">
+                                                        <h4><span>THIẾT KẾ NỘI THẤT BIỆT THỰ</span></h4>
                                                     </div>
                                                     <div class="servicePrice">
-                                                        <p><em>$</em><strong>200</strong></p>
-                                                        <p>square meter</p>
+                                                        <p>Liên hệ</p>
                                                     </div>
                                                     <div class="serviceDesc">
                                                         <p>Scheduling</p><br />
@@ -93,12 +91,11 @@
                                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                                                 <div class="serviceItem">
                                                     <div class="serviceHead">
-                                                        <img src="{{ asset('assets/image/page/dv-tkcttm.jpg') }}" class="done" alt="THIẾT KẾ CÔNG TRÌNH THƯƠNG MẠI">
-                                                        <h4><span>THIẾT KẾ CÔNG TRÌNH THƯƠNG MẠI</span></h4>
+                                                        <img src="{{ asset('assets/image/page/dv-nhapho.jpg') }}" class="done" alt="THIẾT KẾ CÔNG TRÌNH THƯƠNG MẠI">
+                                                        <h4><span>THIẾT KẾ NỘI THẤT NHÀ PHỐ</span></h4>
                                                     </div>
                                                     <div class="servicePrice">
-                                                        <p><em>$</em><strong>200</strong></p>
-                                                        <p>square meter</p>
+                                                        <p>Liên hệ</p>
                                                     </div>
                                                     <div class="serviceDesc">
                                                         <p>Scheduling</p><br />
@@ -117,12 +114,11 @@
                                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                                                 <div class="serviceItem">
                                                     <div class="serviceHead">
-                                                        <img src="{{ asset('assets/image/page/dv-httk.jpg') }}" class="done" alt="HỢP TÁC THIẾT KẾ">
-                                                        <h4><span>HỢP TÁC THIẾT KẾ</span></h4>
+                                                        <img src="{{ asset('assets/image/page/dv-vanphong.jpg') }}" class="done" alt="HỢP TÁC THIẾT KẾ">
+                                                        <h4><span>THIẾT KẾ NỘI THẤT VĂN PHÒNG</span></h4>
                                                     </div>
                                                     <div class="servicePrice">
-                                                        <p><em>$</em><strong>200</strong></p>
-                                                        <p>square meter</p>
+                                                        <p>Liên hệ</p>
                                                     </div>
                                                     <div class="serviceDesc">
                                                         <p>Scheduling</p><br />
@@ -141,12 +137,11 @@
                                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                                                 <div class="serviceItem">
                                                     <div class="serviceHead">
-                                                        <img src="{{ asset('assets/image/page/dv-sxtc.jpg') }}" class="done" alt="SẢN XUẤT THI CÔNG">
-                                                        <h4><span>SẢN XUẤT THI CÔNG</span></h4>
+                                                        <img src="{{ asset('assets/image/page/dv-spa.png') }}" class="done" alt="SẢN XUẤT THI CÔNG">
+                                                        <h4><span>THIẾT KẾ NỘI THẤT SPA, SHOP QUẦN ÁO, QUÁN CAFE </span></h4>
                                                     </div>
                                                     <div class="servicePrice">
-                                                        <p><em>$</em><strong>200</strong></p>
-                                                        <p>square meter</p>
+                                                        <p>Liên hệ</p>
                                                     </div>
                                                     <div class="serviceDesc">
                                                         <p>Scheduling</p><br />
@@ -166,11 +161,10 @@
                                                 <div class="serviceItem">
                                                     <div class="serviceHead">
                                                         <img src="{{ asset('assets/image/page/dv-ttnt.png') }}" class="done" alt="TRANG TRÍ NỘI THẤT">
-                                                        <h4><span>TRANG TRÍ NỘI THẤT</span></h4>
+                                                        <h4><span>THIẾT KẾ NỘI THẤT BÁN LẺ</span></h4>
                                                     </div>
                                                     <div class="servicePrice">
-                                                        <p><em>$</em><strong>200</strong></p>
-                                                        <p>square meter</p>
+                                                        <p>Liên hệ</p>
                                                     </div>
                                                     <div class="serviceDesc">
                                                         <p>Scheduling</p><br />
