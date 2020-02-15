@@ -11,47 +11,47 @@ namespace App\Http\Controllers;
 class UserHomeController extends Controller {
     public function index()
     {
-        return view('user/home/index');
+        return view('v1/user/home/index');
     }
 
     public function introduce()
     {
-        return view('user/general/introduction');
+        return view('v1/user/general/introduction');
     }
 
     public function designStyle()
     {
-        return view('user/general/design-style');
+        return view('v1/user/general/design-style');
     }
 
     public function leader()
     {
-        return view('user/general/leader');
+        return view('v1/user/general/leader');
     }
 
     public function service()
     {
-        return view('user/service/index');
+        return view('v1/user/service/index');
     }
 
     public function blog($id=0)
     {
         if ($id != 0) {
-            return view('user/blog/detail');
+            return view('v1/user/blog/detail');
         }
-        return view('user/blog/list');
+        return view('v1/user/blog/list');
     }
 
     public function career($id=0)
     {
         if ($id != 0) {
-            return view('user/career/detail');
+            return view('v1/user/career/detail');
         }
-        return view('user/career/list');
+        return view('v1/user/career/list');
     }
 
     public function contact()
     {
-        return view('user/contact/index');
+        return view('v1/user/contact/index');
     }
 }

@@ -191,7 +191,11 @@ header:before {position: absolute;left: 0;bottom: -4px;width: 100%;height: 4px;z
 .header2 .mainmenu li ul li ul {display: none; left: 100%;top: 0;}
 
 .mobileMenu {display: none;}
-.showMobileMenu {display: none;}
+.showMobileMenu {display: none; color: white; font-size: 25px;}
+.showMobileMenu:focus, .showMobileMenu.hover {
+    color: white!important;
+    text-decoration: none!important;
+}
 
 .home.blog .header2 .languageSelect,
 .languageSelect {position: relative; float: right;margin: 23px 0 0 42px;}
